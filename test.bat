@@ -8,3 +8,4 @@ echo AGENT_BUILDDIRECTORY contents:
 echo BUILD_SOURCESDIRECTORY contents:
 @dir %BUILD_SOURCESDIRECTORY%
 echo Over and out.
+PAUSE
